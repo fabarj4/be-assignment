@@ -242,5 +242,5 @@ docker compose up --build
 
 ## Documentation
 ```
-https://api.postman.com/collections/1978539-eec5906a-3b85-4c50-96b8-49a3cab1d18f?access_key=PMAT-01J4ZJA50JH5XJ3KBN3RG005EA
+export postman json
 ```
